@@ -1,0 +1,23 @@
+.mainimiz{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+}
+
+.denemeKutu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 750px;
+    height: 250px;
+    border: 10px solid red;
+    border-radius: 15px;
+    box-shadow: 0px 0px 70px 15px red;
+}
+
+.clockText{
+    color: white;
+    font-size: 65px;
+}
